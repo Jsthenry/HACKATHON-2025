@@ -1,6 +1,6 @@
-# hsse
+NULL POINTERS
 
-A new Flutter project.
+HACAKTHON 2025 Application
 
 ## Getting Started
 
