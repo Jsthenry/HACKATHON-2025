@@ -1,0 +1,595 @@
+# Code Citations
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2,
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2,
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2,
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2,
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7,
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7,
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7,
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7,
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12,
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12,
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12,
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12,
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17,
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17,
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17,
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17,
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17, \$18, \
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17, \$18, \
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17, \$18, \
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17, \$18, \
+```
+
+
+## License: unknown
+https://github.com/tabinks/PetaPerl/blob/a01052ebb4d5e595a0aa472caed3e1cc26a8fa94/Sling/archive/PdbHeader.pm
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17, \$18, \$
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/bin/.apache-modsec.alias
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17, \$18, \$
+```
+
+
+## License: unknown
+https://github.com/Apache-Labor/labor/blob/1dbd07e152bb8e79e12c242aae81114598be2c90/labor-09/README.md
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17, \$18, \$
+```
+
+
+## License: unknown
+https://github.com/HanaTree/iwa-website-2017/blob/bfad6537b192aa6890b553caf303d42c5ac0a429/local_modules/postgres_helper.js
+
+```
+VALUES (
+          \$1, \$2, \$3, \$4, \$5, \$6, \$7, \$8, \$9, \$10, \$11, \$12, \$13, \$14, \$15, \$16, \$17, \$18, \$
+```
+

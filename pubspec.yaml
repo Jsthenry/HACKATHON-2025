@@ -1,0 +1,59 @@
+name: hsse
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0-211.0.dev
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Database - Supabase only (universal compatibility)
+  supabase_flutter: ^2.5.6
+  
+  # Location and sensors
+  latlong2: ^0.9.1
+  geolocator: ^14.0.2
+  geocoding: ^4.0.0
+  
+  # Map functionality
+  flutter_map: ^8.1.1
+  
+  # Audio recording
+  record: ^6.0.0
+  
+  # Permissions and device features
+  permission_handler: 12.0.1
+  path_provider: ^2.1.5
+  vibration: ^3.1.3
+  
+  # File handling and media
+  file_picker: ^8.0.0+1
+  image_picker: ^1.1.2
+  mime: ^2.0.0
+  
+  # Utilities
+  uuid: ^4.2.1
+  path: ^1.9.1
+
+  # Web scraping and RSS monitoring
+  http: ^1.1.0
+  html: ^0.15.4
+  xml: ^6.5.0
+  webfeed_plus: ^1.1.2
+
+  # Charts for analytics
+  fl_chart: ^0.68.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

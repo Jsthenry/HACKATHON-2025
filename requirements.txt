@@ -1,0 +1,44 @@
+# HSSE Service App - Python Dependencies
+# =====================================
+# FOR HACKATHON TESTERS: Install these packages before running the system
+# Installation: pip install -r requirements.txt
+
+# Core Dependencies
+fastapi>=0.104.0              # Web framework for API service
+uvicorn[standard]>=0.24.0      # ASGI server for FastAPI
+requests>=2.31.0               # HTTP client for web scraping and API calls
+python-dotenv>=1.0.0           # Environment variable management
+
+# Claude AI Integration
+anthropic>=0.3.0               # Official Anthropic Claude API client
+
+# Data Processing
+feedparser>=6.0.10             # RSS feed parsing for news monitoring
+schedule>=1.2.0                # Task scheduling for automated monitoring
+beautifulsoup4>=4.12.0         # HTML parsing for web scraping
+
+# Database - Local SQLite (built-in with Python 3.8+)
+# sqlite3 is built-in with Python 3.8+
+
+# Database - Supabase Cloud Integration
+supabase>=2.0.5                # Supabase cloud database client
+asyncpg>=0.29.0                # Async PostgreSQL adapter for direct DB access
+psycopg2-binary>=2.9.9         # PostgreSQL adapter (binary distribution)
+
+# Data Validation
+pydantic>=2.5.0                # Data validation for API models
+
+# Development and Testing
+pytest>=7.4.0                  # Testing framework
+pytest-asyncio>=0.21.0         # Async testing support
+
+# Optional: Enhanced Features
+Pillow>=10.0.0                 # Image processing for file uploads
+python-multipart>=0.0.6        # File upload support for FastAPI
+
+# Security
+cryptography>=41.0.0           # Encryption and security utilities
+
+# Additional Production Dependencies
+redis>=4.5.0                   # Cache and session storage
+sentry-sdk[fastapi]>=1.38.0    # Error monitoring and logging
